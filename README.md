@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lorean2" alt="4lorean2" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <img align = "right" alt = "Kodlama" width = "400" src = "https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
