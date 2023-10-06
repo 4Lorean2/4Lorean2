@@ -11,11 +11,11 @@
 <img align = "right" alt = "Kodlama" width = "400" src = "https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **React, Node.js**
-<a href="https://www.linkedin.com/in/mustafatasdogen">linkedin</a>
+
 - 💬 Ask me about **React**
 
 <h3 align="left">Connect with me:
-a 
+<a href="https://www.linkedin.com/in/mustafatasdogen">linkedin</a>
 </h3>
 <p align="left">
 </p>
