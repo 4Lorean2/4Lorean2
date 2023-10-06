@@ -15,7 +15,7 @@
 - 💬 Ask me about **React**
 
 <h3 align="left">Connect with me:
-<a href="https://www.linkedin.com/in/mustafatasdogen">linkedin</a>
+<a href="https://www.linkedin.com/in/mustafatasdogen">Linkedin</a>
 </h3>
 <p align="left">
 </p>
