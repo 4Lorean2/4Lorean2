@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Taşdöğen</h1>
 <h3 align="center">I'm Mustafa, a full-time full-stack freelance developer  👨‍💻 working remotely since 2019🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4lorean2&label=Profile%20views&color=0e75b6&style=flat" alt="4lorean2" /> </p>
 
 
 
