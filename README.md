@@ -10,7 +10,7 @@
 
 <img align = "right" alt = "Kodlama" width = "400" src = "https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React, Node.js,Angular**
 
 - 💬 Ask me about **React**
 
