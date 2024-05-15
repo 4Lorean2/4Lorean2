@@ -5,7 +5,7 @@
 
 
 <p>
-**
+
 Restoring My GitHub Profile
 
 Hello!
@@ -15,7 +15,7 @@ I am currently in the process of restructuring my GitHub profile. During this ti
 Thank you for your understanding. I will have an updated and more organized profile ready for you soon.
 
 Have a great day!
-**
+
 </p>
 
 
