@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4lorean2&label=Profile%20views&color=0e75b6&style=flat" alt="4lorean2" /> </p>
 
 
-<p style="color= "red" " >
-  Restoring My GitHub Profile
+<p>
+***  
+Restoring My GitHub Profile
+
 Hello!
 
 I am currently in the process of restructuring my GitHub profile. During this time, I am working on and reorganizing several projects. As a result, some repositories may be temporarily unavailable.
@@ -13,6 +15,7 @@ I am currently in the process of restructuring my GitHub profile. During this ti
 Thank you for your understanding. I will have an updated and more organized profile ready for you soon.
 
 Have a great day!
+***
 </p>
 
 
