@@ -20,7 +20,10 @@ Have a great day!
 
 
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lorean2" alt="4lorean2" /></a> </p>
+{::comment}
+ <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4lorean2" alt="4lorean2" /></a> </p>
+ {:/comment}
+
 
 
 
