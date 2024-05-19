@@ -12,7 +12,7 @@ Hello!
 
 I am currently in the process of restructuring my GitHub profile. During this time, I am working on and reorganizing several projects. As a result, some repositories may be temporarily unavailable.
 
-Thank you for your understanding. I will have an updated and more organized profile ready for you soon.
+Thank you for your understanding. All projects will be available soon with updated TypeScript.
 
 Have a great day!
 
